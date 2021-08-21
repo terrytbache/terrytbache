@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @terrytbache
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...python, C++
+- 🌱 I’m currently learning ...html, css, javascript, python, C++
 - 💞️ I’m looking to collaborate on music, automated growing
 - 📫 How to reach me ...
 
